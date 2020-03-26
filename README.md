@@ -11,6 +11,6 @@ c) 程序的输入说明，包括标准输入格式、输入限制和遇见输�
 d) 程序计算结果的输出规格，以及可预见的运行错误响应信息;
 
 * 程序结构
-![structure](https://github.com/sameen7/Single-threaded-Lift/blob/master/image/structure.png)
+![structure](https://github.com/sameen7/Single-threaded-Lift/blob/master/structure.png)
 
 
