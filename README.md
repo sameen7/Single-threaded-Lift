@@ -5,12 +5,14 @@ Single-threaded Lift with OO programming
 更多要求详见instruction.pdf。
 
 程序说明文档(readme.pdf)，内容包括:
-a) 电梯调度策略和程序功能说明;
-b) 程序运行所需环境和运行指令规范;
-c) 程序的输入说明，包括标准输入格式、输入限制和遇见输入错误时的 响应信息;
-d) 程序计算结果的输出规格，以及可预见的运行错误响应信息;
++ 电梯调度策略和程序功能说明;
++ 程序运行所需环境和运行指令规范;
++ 程序的输入说明，包括标准输入格式、输入限制和遇见输入错误时的 响应信息;
++ 程序计算结果的输出规格，以及可预见的运行错误响应信息;
 
-* 程序结构
+测试数据见lift.txt
+
+# 程序结构
 ![structure](https://github.com/sameen7/Single-threaded-Lift/blob/master/structure.png)
 
 
