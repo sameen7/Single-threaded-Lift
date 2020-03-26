@@ -10,6 +10,7 @@ b) 程序运行所需环境和运行指令规范;
 c) 程序的输入说明，包括标准输入格式、输入限制和遇见输入错误时的 响应信息;
 d) 程序计算结果的输出规格，以及可预见的运行错误响应信息;
 
-*程序结构
+* 程序结构
+![structure](https://github.com/sameen7/Single-threaded-Lift/blob/master/image/structure.png)
 
 
